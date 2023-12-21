@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# THIS IS INSTALLED FROM GIT 👋")
+st.write("# THIS IS INSTALLED FROM GIT, update 2👋")
 
 st.sidebar.success("Select a demo above.")
 
